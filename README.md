@@ -1,4 +1,5 @@
-F-AUTH
+F-AUTH -- https://fivemdev.org/store/category/5-fivemdev-auth/
+
 O F-AUTH é um sistema inovador para proteger os arquivos da sua cidade no FIVEM!
 
 Com ele, você pode encriptar os seus scripts e armazená-los na nuvem, garantindo mais praticidade e segurança para o seu servidor.

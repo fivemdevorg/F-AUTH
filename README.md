@@ -13,7 +13,6 @@ Depois, você deve ir no seu arquivo CONFIG.LUA e preencher o seguinte:
 Config = {}
 
 Config.key = “” – A chave gerada no nosso site
-
 Config.profile = “” – A URL do seu repositório no Github no formato RAW. Exemplo: https://raw.githubusercontent.com/fivemdevorg/
 
 Lembre-se de que é obrigatório usar esse formato com RAW, terminando no nome do seu usuário. Em seguida, você deve ir no diretório do seu Github, criar uma pasta com o nome da sua resource. Se o nome do script é wall, então crie uma pasta “wall”. Se ele tiver o W maiúsculo, então é Wall. A pasta criada deve ter o mesmo nome do script. Por fim, você deve gerar a token dessa pasta e colocar em nosso site, no processo da compra. Assim, você conseguirá coletar a sua chave. O processo é todo automático e depende só de você.

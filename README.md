@@ -16,6 +16,8 @@ Config.profile = “” – A URL do seu repositório no Github no formato RAW. 
 
 Lembre-se de que é obrigatório usar esse formato com RAW, terminando no nome do seu usuário. Em seguida, você deve ir no diretório do seu Github, criar uma pasta com o nome da sua resource. Se o nome do script é wall, então crie uma pasta “wall”. Se ele tiver o W maiúsculo, então é Wall. A pasta criada deve ter o mesmo nome do script. Por fim, você deve gerar a token dessa pasta e colocar em nosso site, no processo da compra. Assim, você conseguirá coletar a sua chave. O processo é todo automático e depende só de você.
 
+Outro detalhe é a escolha do client, se o seu script tem apenas server.lua você utiliza o arquivo server.lua e o restante, se o seu script utiliza server.lua e cliente, utilize o arquivo: server_AND_CLIENT.lua e também o client.lua obviamente.
+
 Para suporte: https://fivemdev.org/ Oferecemos a instalação do serviço caso seja necessário.
 
 Não perca tempo e adquira já o F-AUTH, o sistema mais confiável e eficiente para proteger os seus arquivos no FIVEM!
